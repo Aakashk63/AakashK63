@@ -28,5 +28,3 @@ If you're interested in collaboration or exploring ideas, feel free to connect.
 * I enjoy building practical AI solutions
 * Passionate about **video editing and creative storytelling**
 * Always exploring new technologies in AI & automation
-* Interested in creating scalable and impactful systems
-* Focused on continuous learning and development
