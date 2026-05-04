@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Aakashk63/AakashK63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an AI Developer focused on building intelligent and scalable solutions using Generative AI and automation technologies. I enjoy solving real-world problems through innovative software systems and continuously exploring advancements in AI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Work
+
+* AI-powered Supply Chain Optimization System
+* Insurance Claims Processing Automation
+* Smart Financial & Credit Management Applications
+
+---
+
+## 🛠️ Tools & Technologies
+
+* **Languages:** Java, HTML, CSS
+* **Frameworks & Platforms:** FlutterFlow, Streamlit
+* **Automation:** n8n
+* **AI & ML:** Large Language Models (LLMs), RAG, AI Integrations
+
+---
+
+## 📫 Contact
+
+Feel free to connect or collaborate:
+
+* GitHub: https://github.com/Aakashk63
+* LinkedIn : https://www.linkedin.com/in/aakash-k-zodiax/
+
+---
